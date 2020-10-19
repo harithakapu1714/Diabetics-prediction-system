@@ -4,9 +4,13 @@
  
  Models used :
             Logistic Regression,
+            
             Support Vector Machine,
+            
             Navie Bayes Classifier,
+            
             Decision Tree Classifier,
+            
             Random forst
             
 By comparing all the models finnaly,I go with the SVM (which gets better results ) for diabetics prediction
