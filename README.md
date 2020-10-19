@@ -12,7 +12,7 @@
 By comparing all the models finnaly,I go with the SVM (which gets better results ) for diabetics prediction
 Also,I designed a small tKinter window for GUI interface
 
-OUTPUT : for output run model.py
+OUTPUT : for output run : python model.py
 
 
  
