@@ -4,15 +4,15 @@
  
  Models used :
  
-            Logistic Regression,
+          >  Logistic Regression,
             
-            Support Vector Machine,
+          >  Support Vector Machine,
             
-            Navie Bayes Classifier,
+          >  Navie Bayes Classifier,
             
-            Decision Tree Classifier,
+          >  Decision Tree Classifier,
             
-            Random forst
+          >  Random forst
             
 By comparing all the models finnaly,I go with the SVM (which gets better results ) for diabetics prediction
 Also,I designed a small tKinter window for GUI interface
