@@ -3,6 +3,7 @@
  This project is used to predict whether the patient have a risk of diabetics or not 
  
  Models used :
+ 
             Logistic Regression,
             
             Support Vector Machine,
